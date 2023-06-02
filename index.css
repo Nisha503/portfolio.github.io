@@ -1,0 +1,89 @@
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 89%, rgba(186,182,220,1) 100%);
+}
+input{
+            width: 200px;
+            height: 30px;
+            font-size: 20px;
+            border-radius: 30px;
+            font-family: fontawesome;
+            position: relative;
+            left: 1000px;
+            top: 50px;
+        }
+        .learn-more-button {
+           display: inline-block;
+           padding: 10px 20px;
+           background-color: #3F51B5;
+           color: white;
+          text-decoration: none;
+          border-radius: 10px;
+         font-family: fontawesome;
+      }
+
+
+     .learn-more-button i {
+        margin-left: 5px;
+     }
+     a{
+    font-size: 30px;
+    color: black;
+    font-family: fantasy;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    margin-left: 50px;
+    position: relative;
+    left: 600px;
+    top: 50px;
+}
+a:hover{
+    transition: 2s;
+    color: white;
+}
+.logo{
+    color: red;
+    font-size: 30px;
+   font-family: 'Dancing Script', cursive;
+}
+.main{
+    border: 1px solid black;
+    height: 1000px;
+    position: relative;
+    top: 60px;
+}
+img{
+    width: 700px;
+    height: 600px;
+    border-radius: 50%;
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+}
+h2{
+    display: inline-block;
+    position: relative;
+    bottom: 500px;
+    right: 650px;
+}
+
+i{
+    position: relative;
+    bottom: 150px;
+    left:  600px;
+}
+.fa-facebook{
+    font-family: fontawesome;
+    color: blue;
+}
+.fa-instagram{
+    font-family: fontawesome;
+    color: red;
+}
+.fa-twitter{
+    font-family: fontawesome;
+    color: blue;
+}
+     
